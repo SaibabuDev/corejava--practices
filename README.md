@@ -1,2 +1,2 @@
-# corejava--practices
+# corejava-practices
 core java concpets
